@@ -15,5 +15,5 @@ $(TARGET): $(SRC)
 	dot_clean ./
 
 clean:
-	rm -f $(TARGET)
+	rm -f $(TARGET)/*
 	dot_clean ./

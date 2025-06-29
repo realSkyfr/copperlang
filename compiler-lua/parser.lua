@@ -1,5 +1,3 @@
---!native
-
 --[[
 "First they ignore you
 then they laugh at you
